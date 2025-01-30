@@ -59,6 +59,9 @@ const Footer = () => {
 				</div>
 
 			</div>
+			<div className="mt-10 text-center  text-neutral-500">
+			© {new Date().getFullYear()} BHCode (Hanna Bykouskaya). All rights reserved.
+			</div>
 		</footer>
 	)
 }
